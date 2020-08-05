@@ -1,4 +1,4 @@
-Build a react application implemented with flickr API to boost the photos
+# Build a react application implemented with flickr API to boost the photos
 
 Deployed link:
 
